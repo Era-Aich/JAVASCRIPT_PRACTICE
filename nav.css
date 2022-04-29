@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+text-decoration: none;
+list-style: none;
+
+}
+
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.box1{
+    height: 80px;
+    width: 400px;
+    float: right;
+
+}
+
+.box1 li a{
+    color: white;
+    
+ }
+
+ .box1 li{
+     display: inline-block;
+     padding: 20px;
+ }
+
+
+ .container_2{
+     height: 300px;
+     width: 100%;
+     margin-top: 80px;
+     background-color:aquamarine;
+ }
+
+ .container_2 form input{
+     margin-bottom: 20px;
+ }

@@ -1,0 +1,18 @@
+{
+"friends":[
+
+{
+    "name":"Era",
+    "age":24,
+    "language":["Bangla","English","Hindi"],
+    "Occuption":"student"
+},
+
+{
+    "name":"Abir",
+    "age":23,
+    "language":["Arbi","Hindi","English"],
+    "Occuption":"Teacher"
+}
+]
+}

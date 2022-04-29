@@ -1,0 +1,33 @@
+var dataJSON={
+"friends": [
+
+    {
+        "name":"Era",
+        "age":23,
+        "occuption":"student",
+        "address":"Chandpur"
+    
+    },
+    
+    {
+        "name":"Sakila",
+        "age":28,
+        "occuption":"Teacher",
+        "address":"Cumilla"
+    }
+    
+
+
+
+]
+
+
+}
+
+console.log(dataJSON.friends[0].name)
+
+
+
+
+
+

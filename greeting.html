@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        class Great{
+            constructor(fname,lname){
+                this.firstName=fname;
+                this.lastName=lname;
+            }
+
+            fullname(){
+                return `HI ${this.firstName} ${this.lastName}`
+            }
+        }
+
+        let greatting= new Great("Era","Aich")
+        console.log(greatting.fullname())
+    </script>
+</body>
+</html>

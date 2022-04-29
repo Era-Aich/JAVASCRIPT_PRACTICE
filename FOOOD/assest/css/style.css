@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: none;
+    text-decoration: none;
+    outline: none;
+  
+}
+
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+.box1{
+
+}
+.head{
+    top: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+    background-color:white;
+    padding: 1rem 7%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* z-index: 1000; */
+    box-shadow: var(--box-shadow);
+}
+
